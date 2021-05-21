@@ -1,14 +1,48 @@
-body {background-color:black;font-family:arial;color:white
-}
+body {background-color:black;font-family:arial;color:white;}
 h1{color:grey;font-family:verdana}
-.maindiv
-{background-color:white;
-color:black;
-width:300px;
-padding:20px;
-border-radius:25px;
-align:center
+.maindiv {
+    background-color: white;
+    color:black;
+    width: 500px;
+    padding: 20px;
+    border-radius:25px;
+    text-align:center;
+    margin:auto;
 }
+.content{
+    padding:25px 25px;
+    text-align: left;
+}
+.result{
+    color:black;
+}
+button{
+    padding:5px;
+    font-size:15px;
+}
+input, select,button{
+    margin-bottom:20px;
+    
+}
+footer{
+    text-align: left;
+}
+.highlight{
+    background-color:yellow;
+}
+
+#rate{
+margin-left:30px;
+}
+
+#principal{
+    margin-left:70px;
+}
+
+select{
+    margin-left:35px;
+}
+
 
 
 
